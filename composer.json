@@ -1,5 +1,5 @@
 {
-    "name": "zainmalik/billForge",
+    "name": "zainmalik/billforge",
     "description": "SaaS Subscription management package with multiple gateways, dynamic route blocking, and admin dashboard.",
     "type": "library",
     "license": "MIT",
